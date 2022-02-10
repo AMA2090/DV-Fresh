@@ -1,0 +1,26 @@
+@import 'libs/vars';
+@import 'libs/functions';
+@import 'libs/mixins';
+@import 'libs/vendor';
+@import 'libs/breakpoints';
+
+/*
+	DV Fresh is a dynamic family business from Pittem that was founded in 2000.
+	 The company specializes in cutting fresh vegetables and focuses on the retail market,
+	  producers of prepared meals, catering companies and wholesale companies.
+*/
+
+/* Main */
+
+	#main {
+		opacity: 1 !important;
+		overflow-x: auto !important;
+
+		.item {
+			&.thumb {
+				img {
+					opacity: 1 !important;
+				}
+			}
+		}
+	}
