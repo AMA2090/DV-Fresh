@@ -1,4 +1,12 @@
+You can view the site from here 
 
+
+[Live Site on Github Pages](https://ama2090.github.io/DV-Fresh/)
+
+
+
+
+This is an English Translation 
 
 The Story
 
